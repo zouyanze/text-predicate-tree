@@ -1,0 +1,401 @@
+predicate
+ Is announcing quarterly earnings
+ Is launching a new product line
+ Is merging with another company
+ Is acquiring a competitor
+ Is restructuring its operations
+ Is filing for bankruptcy
+ Is issuing a stock split
+ Is hiring a new CEO
+ Is laying off workers
+ Is facing a lawsuit
+ Is expanding into international markets
+ Is opening a new location
+ Is introducing a new pricing strategy
+ Is partnering with a technology company
+ Is investing in research and development
+ Is divesting a business unit
+ Is negotiating a contract with a supplier
+ Is experiencing a labor dispute
+ Is collaborating with a non-profit organization
+ Is implementing a new corporate social responsibility program
+ Is improving its customer service
+ Is facing regulatory scrutiny
+ Is launching an advertising campaign
+ Is diversifying its product offerings
+ Is adopting sustainable business practices
+ Is sponsoring a community event
+ Is announcing a new board member
+ Is raising capital through a bond offering
+ Is releasing a new financial report
+ Is enacting a new safety protocol
+ Is being investigated for fraud
+ Is launching an online store
+ Is cutting back on expenses
+ Is announcing a new brand strategy
+ Is partnering with a celebrity spokesperson
+ Is introducing a new rewards program
+ Is hosting an investor conference
+ Is implementing a new data privacy policy
+ Is launching a mobile app
+ Is seeking approval for a new product
+ Is announcing a new strategic alliance
+ Is engaging in ethical business practices
+ Is creating a new supply chain management system
+ Is testing a new product
+ Is optimizing its logistics operations
+ Is enhancing its online ordering system
+ Is announcing a new distribution center
+ Is launching a customer feedback program
+ Is reducing its environmental impact
+ Is announcing an executive departure
+ Is increasing its marketing spend
+ Is launching a loyalty program
+ Is partnering with a local business
+ Is improving its website
+ Is making a charitable donation
+ Is enhancing its customer experience
+ Is launching a premium product line
+ Is implementing a new employee training program
+ Is discontinuing a product
+ Is enhancing its product quality
+ Is announcing a strategic divestment
+ Is creating a new innovation team
+ Is expanding into a new market
+ Is announcing a new mission statement
+ Is changing its corporate culture
+ Is announcing a new company vision
+ Is entering a joint venture
+ Is improving its manufacturing efficiency
+ Is implementing a new sales strategy
+ Is investing in digital marketing
+ Is optimizing its supply chain
+ Is recruiting new talent
+ Is launching a new warranty policy
+ Is improving its customer retention
+ Is announcing a new flagship store
+ Is improving its company culture
+ Is enhancing its e-commerce capabilities
+ Is introducing a new product category
+ Is conducting a focus group
+ Is expanding into a new demographic
+ Is offering a new payment option
+ Is improving its design process
+ Is creating a new sustainability initiative
+ Is optimizing its production processes
+ Is launching a new product placement campaign
+ Is announcing a new partnership with a media company
+ Is improving its inventory management
+ Is introducing a new employee incentive program
+ Is launching a new line of sustainable products
+ Is improving its customer relationships
+ Is opening a new distribution center
+ Is announcing a new product line extension
+ Is enhancing its social media presence
+ Is launching a new customer engagement campaign
+ Is improving its data analytics capabilities
+ Is optimizing its delivery processes
+ Is implementing a new training program for sales staff
+ Is launching a new influencer marketing campaign
+ Is improving its product packaging
+ Is announcing a new marketing partnership
+ Is announcing a new scientific discovery
+ Is launching a new spacecraft
+ Is developing a new technology
+ Is testing a new medical treatment
+ Is announcing a new artificial intelligence algorithm
+ Is creating a new robotics system
+ Is conducting new research in climate change
+ Is collaborating with a university on new research
+ Is developing a new renewable energy source
+ Is announcing a breakthrough in gene editing
+ Is launching a new social media platform
+ Is improving cybersecurity
+ Is announcing a new space mission
+ Is launching a new quantum computer
+ Is developing a new vaccine
+ Is improving the user experience of a technology product
+ Is developing a new software application
+ Is launching a new website
+ Is creating a new virtual reality system
+ Is announcing a new partnership with a technology company
+ Is developing a new machine learning system
+ Is testing a new autonomous vehicle
+ Is launching a new augmented reality application
+ Is creating a new blockchain technology
+ Is announcing a new breakthrough in nanotechnology
+ Is developing a new smart home system
+ Is improving the performance of a computer processor
+ Is conducting research in artificial life
+ Is announcing a new quantum encryption technology
+ Is launching a new cyber defense system
+ Is developing a new quantum communication technology
+ Is creating a new synthetic biology system
+ Is announcing a new algorithm to help fight climate change
+ Is developing a new robotics control system
+ Is testing a new brain-computer interface
+ Is launching a new innovation hub
+ Is creating a new artificial general intelligence system
+ Is announcing a new sustainable data center
+ Is developing a new self-driving car system
+ Is improving the accuracy of a weather forecasting system
+ Is launching a new cybersecurity startup
+ Is creating a new virtual assistant system
+ Is announcing a new breakthrough in quantum computing research
+ Is developing a new personalized genetic medicine system
+ Is testing a new brain-machine interface
+ Is launching a new virtual reality headset
+ Is creating a new machine learning algorithm
+ Is announcing a new breakthrough in virtual reality technology
+ Is developing a new gene editing therapy
+ Is improving the battery life of a smartphone
+ Is launching a new G network
+ Is creating a new autonomous delivery system
+ Is announcing a new innovation center
+ Is developing a new artificial neural network
+ Is testing a new cancer treatment
+ Is launching a new digital currency
+ Is creating a new machine vision system
+ Is announcing a new material science breakthrough
+ Is developing a new quantum battery
+ Is improving the user interface of a software application
+ Is launching a new biotech startup
+ Is creating a new quantum key distribution system
+ Is announcing a new breakthrough in robotics research
+ Is developing a new medical imaging system
+ Is testing a new HIV treatment
+ Is launching a new D printer
+ Is creating a new artificial general intelligence system
+ Is announcing a new quantum internet technology
+ Is developing a new sensor network
+ Is improving the safety features of an autonomous vehicle
+ Is launching a new cloud computing service
+ Is creating a new blockchain-based supply chain system
+ Is announcing a new breakthrough in neurotechnology research
+ Is developing a new quantum microbiome analyzer
+ Is testing a new Alzheimer's treatment
+ Is launching a new artificial intelligence startup
+ Is creating a new virtual reality learning system
+ Is announcing a new breakthrough in deep learning research
+ Is developing a new smart grid technology
+ Is improving the accuracy of a machine vision system
+ Is launching a new biometric security system
+ Is creating a new brain-inspired computing system
+ Is announcing a new breakthrough in quantum communication research
+ Is developing a new gene editing tool
+ Is testing a new organ transplantation process
+ Is launching a new smart city program
+ Is creating a new natural language processing system
+ Is announcing a new breakthrough in renewable energy research
+ Is developing a new autonomous drone system
+ Is improving the functionality of an artificial intelligence system
+ Is launching a new digital health device
+ Is creating a new machine learning-based fraud detection system
+ Is announcing a new breakthrough in quantum biological research
+ Is developing a new nanomaterial technology
+ Is testing a new multiple sclerosis treatment
+ Is launching a new quantum information processing system
+ Is creating a new quantum artificial immune system
+ Is announcing a new breakthrough in personalized medicine research
+ Is developing a new brain-machine interface for paralysis patients
+ Is improving the performance of a deep learning network
+ Is announcing a peace agreement
+ Is launching a military operation
+ Is experiencing a natural disaster
+ Is experiencing a humanitarian crisis
+ Is hosting a diplomatic summit
+ Is imposing a travel ban
+ Is experiencing a political scandal
+ Is enacting new immigration policies
+ Is hosting a cultural festival
+ Is experiencing a regime change
+ Is experiencing a terrorist attack
+ Is hosting a sporting event
+ Is experiencing a trade dispute
+ Is experiencing civil unrest
+ Is experiencing an economic recession
+ Is experiencing a regional armed conflict
+ Is experiencing a water crisis
+ Is experiencing a coup d'etat
+ Is experiencing a diplomatic row
+ Is announcing a new infrastructure project
+ Is experiencing a refugee crisis
+ Is experiencing a food shortage
+ Is experiencing a cultural conflict
+ Is experiencing an environmental crisis
+ Is experiencing a pandemic
+ Is experiencing a cyber attack
+ Is experiencing a nuclear threat
+ Is experiencing a corruption scandal
+ Is experiencing a border dispute
+ Is experiencing a diplomatic breakthrough
+ Is experiencing a political assassination
+ Is experiencing a human rights violation
+ Is experiencing a populist uprising
+ Is experiencing a regional summit
+ Is experiencing a debt crisis
+ Is experiencing a demographic shift
+ Is announcing new trade agreements
+ Is experiencing a regional economic boom
+ Is experiencing an anti-government protest
+ Is experiencing a demographic crisis
+ Is announcing new environmental initiatives
+ Is experiencing a religious conflict
+ Is experiencing a cyber espionage scandal
+ Is experiencing a censorship controversy
+ Is experiencing a border wall construction project
+ Is experiencing a political deadlock
+ Is announcing new military alliances
+ Is experiencing a trade imbalance
+ Is experiencing a money laundering scandal
+ Is experiencing a political corruption scandal
+ Is experiencing an organized crime crisis
+ Is experiencing a regional environmental crisis
+ Is announcing new economic reforms
+ Is experiencing a refugee influx
+ Is experiencing a human trafficking crisis
+ Is announcing new cultural exchange programs
+ Is experiencing a natural resource conflict
+ Is experiencing a maritime dispute
+ Is experiencing a regional arms race
+ Is experiencing a territorial dispute
+ Is experiencing a cyber terrorism attack
+ Is experiencing a regional health crisis
+ Is announcing new diplomatic initiatives
+ Is experiencing a regional political crisis
+ Is experiencing a regional conflict over water resources
+ Is experiencing a regional currency crisis
+ Is experiencing a regional economic recession
+ Is experiencing a regional migrant crisis
+ Is experiencing a regional transportation crisis
+ Is experiencing a regional energy crisis
+ Is announcing new cross-border infrastructure projects
+ Is experiencing a regional natural disaster
+ Is experiencing a regional aviation crisis
+ Is experiencing a regional infrastructure crisis
+ Is experiencing a regional debt crisis
+ Is experiencing a regional identity crisis
+ Is announcing new debt cancellation initiatives
+ Is experiencing a regional political protest movement
+ Is experiencing a regional food security crisis
+ Is experiencing a regional drought crisis
+ Is announcing new humanitarian aid programs
+ Is experiencing a regional security crisis
+ Is experiencing a regional refugee crisis
+ Is experiencing a regional health care crisis
+ Is experiencing a regional education crisis
+ Is experiencing a regional economic slowdown
+ Is announcing new environmental conservation programs
+ Is experiencing a regional housing crisis
+ Is experiencing a regional immigration crisis
+ Is experiencing a regional population boom
+ Is announcing new peacekeeping initiatives
+ Is experiencing a regional religious crisis
+ Is experiencing a regional human rights crisis
+ Is experiencing a regional constitutional crisis
+ Is announcing new economic development programs
+ Is experiencing a regional maritime security crisis
+ Is experiencing a regional energy security crisis
+ Is experiencing a regional water scarcity crisis
+ Is experiencing a regional political polarization crisis
+ Is announcing new social welfare programs
+ Is announcing a new team roster
+ Is announcing a new head coach
+ Is hosting a championship event
+ Is experiencing a doping scandal
+ Is announcing new safety rules
+ Is announcing a new collective bargaining agreement
+ Is experiencing an injury crisis
+ Is announcing new player contracts
+ Is hosting a major tournament
+ Is experiencing an underdog victory
+ Is announcing a new sponsor deal
+ Is announcing a new referee policy
+ Is experiencing a championship dynasty
+ Is hosting an international sporting event
+ Is announcing new player trades
+ Is experiencing a rule change controversy
+ Is announcing a new sports merchandise line
+ Is hosting a world record-breaking event
+ Is announcing a new fan engagement initiative
+ Is experiencing a team relocation
+ Is announcing a new charity partnership
+ Is hosting a major rivalry game
+ Is announcing a new ticketing program
+ Is experiencing a major upset
+ Is announcing new stadium upgrades
+ Is hosting an All-Star game
+ Is announcing a new sports analytics platform
+ Is experiencing a comeback win
+ Is announcing new sports technology innovations
+ Is hosting a major sports awards ceremony
+ Is experiencing an Olympic gold medal victory
+ Is announcing a new stadium design
+ Is hosting a major international sports event
+ Is announcing new player development programs
+ Is experiencing a major player retirement
+ Is announcing a new sports nutrition program
+ Is hosting a major exhibition game
+ Is experiencing a major underdog upset
+ Is announcing new merchandise partnerships
+ Is hosting a major playoff game
+ Is announcing a new sports coaching program
+ Is experiencing a historic championship win
+ Is announcing a new team branding campaign
+ Is hosting a major tournament qualifier
+ Is announcing new fan experience programs
+ Is experiencing a high-scoring game
+ Is announcing a new player empowerment initiative
+ Is hosting a major charity game
+ Is experiencing an international sports scandal
+ Is announcing new sports facilities
+ Is hosting a major national championship game
+ Is experiencing a record-breaking performance
+ Is announcing a new athlete mentorship program
+ Is hosting a major sporting seminar
+ Is experiencing a major player suspension
+ Is announcing new fan loyalty programs
+ Is hosting a major team victory parade
+ Is experiencing a major player trade
+ Is announcing a new esports league
+ Is hosting a major youth sports tournament
+ Is experiencing a game-winning play
+ Is announcing new sports etiquette initiatives
+ Is hosting a major endurance event
+ Is experiencing a major referee error
+ Is announcing new sports betting platforms
+ Is hosting a major amateur sports tournament
+ Is experiencing a major retirement announcement
+ Is announcing new fan rewards programs
+ Is hosting a major winter sports event
+ Is experiencing a major sports doping scandal
+ Is announcing a new sports filmmaker program
+ Is hosting a major sports camp
+ Is experiencing a major team split
+ Is announcing new sports merchandise campaigns
+ Is hosting a major championship rematch
+ Is experiencing a major player acquisition
+ Is announcing a new sports fundraising initiative
+ Is hosting a major summer sports event
+ Is experiencing a major injury recovery
+ Is announcing new sports nutrition partnerships
+ Is hosting a major multi-sport event
+ Is experiencing a major sports betting scandal
+ Is announcing a new sports psychology program
+ Is hosting a major sports fan convention
+ Is experiencing a major sports technology failure
+ Is announcing new sports mentorship programs
+ Is hosting a major sports camp for kids
+ Is experiencing a major rookie breakthrough
+ Is announcing new sports medicine partnerships
+ Is hosting a major upset win
+ Is experiencing a major sports technology hack
+ Is announcing new sports business incubation programs
+ Is hosting a major sports trade show
+ Is experiencing a major sports documentary release
+ Is announcing new sports parenting initiatives
+ Is hosting a major international sports diplomacy event
+ Is experiencing a major sports sponsorship scandal
+ Is announcing new sports technology research
+ Is hosting a major sports franchise expansion
+ Is experiencing a major sports technology breakthrough
