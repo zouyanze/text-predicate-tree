@@ -93,8 +93,8 @@ prompt_model.eval()
 predictions = []
 with torch.no_grad():
     # For every 100000 examples in dataset, we create a new data loader
-    for i in range(0, len(dataset), 100000):
-        subdataset = dataset[i : i + 100000]
+    for i in range(0, len(dataset), 10000):
+        subdataset = dataset[i : i + 10000]
         data_loader = PromptDataLoader(
             dataset=subdataset,
             template=mytemplate,
